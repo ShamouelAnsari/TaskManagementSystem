@@ -1,0 +1,14 @@
+/* styles.css */
+
+.footer {
+    background-color: #f8f9fa; /* Set background color */
+    font-weight: bolder;
+    padding: 20px; /* Add padding to create space around the content */
+    text-align: center; /* Align the text to the center */
+    font-size: 14px; /* Set font size */
+    color: black; /* Set text color */
+     /* position: fixed; Fix the position of the footer at the bottom of the page */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Set the width to 100% of the viewport */
+  }
